@@ -44,7 +44,8 @@ Ograniczenie: bazy do arkuszy 2025–2026 są w archiwach .7z, których nie uda�
 ## Do zrobienia (kolejność)
 1. ~~Przegląd widoków~~ – zrobione 27.10.2026: 22 widoki × (desktop + telefon) bez błędów JS i bez poziomego scrolla (`tools/qa.js`, `tools/qa_mock_mobile.js`). Jedyny błąd konsoli to brak dostępu do Google Fonts w piaskownicy testowej.
 2. Wdrożenie na GitHub Pages (repo publiczne lub Pages z prywatnego, folder główny = ten katalog; `tools/` można zostawić).
-   - Przygotowane 28.10.2026: `.nojekyll`, `.gitignore` (bez `__pycache__`), `README.md`, wszystkie ścieżki względne (działa pod `/nazwa-repo/`). Publikację robi uczeń przez GitHub Desktop (na komputerze nie ma gita). Po wdrożeniu wpisać tu adres strony.
+   - **Zrobione 28.10.2026: https://ogbenc.github.io/trener/** (repo `ogbenc/trener`, publiczne, Pages z `main` / root). Sprawdzone online: SQL (wasm), arkusz z bazą, PHP-lab, matematyka, telefon 375 px, brak błędów konsoli.
+   - Aktualizacja strony: GitHub Desktop → Commit to main → Push origin (na komputerze nie ma osobnego gita; Desktop ma własny). Pages przebudowuje się w ~1 min.
 3. Bazy do arkuszy 2025–2026 (patrz wyżej).
 4. Moduł matematyki: zadania z prawdziwych matur CKE od 2015, najpierw podstawa, potem rozszerzenie; pogrupowane po działach, z częstością („pewniaki” powtarzające się co roku), sprawdzanie odpowiedzi, zero zbędnej teorii. Podpisywać źródło (CKE, rok, nr zadania).
    - Zaczęte 27.10.2026: `data/mat.js` (`TR.MATG` – 8 działów, `TR.MAT` – 28 zadań z PP maj 2024 i maj 2025, odpowiedzi przeliczone ręcznie), `js/mat.js` (`TR.viewMat`, `TR.matCheck`: zamknięte A–D + krótka odpowiedź z normalizacją przecinka/ułamka). Sprawdzone 28.10.2026 w przeglądarce: każda poprawna odpowiedź przechodzi, zła nie; brak błędów konsoli; telefon 375 px bez poziomego scrolla; postęp zapisuje się w localStorage.
