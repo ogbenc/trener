@@ -1,0 +1,64 @@
+# nazwa|rodzaj|podpis
+1.jpg|land|Barcelona
+2.jpg|land|Rzym
+3.jpg|land|Londyn
+4.jpg|land|wzór 4
+5.jpg|land|wzór 5
+6.jpg|land|wzór 6
+7.jpg|land|wzór 7
+8.jpg|land|wzór 8
+9.jpg|land|wzór 9
+10.jpg|land|wzór 10
+zakopane.jpg|land|Zakopane
+gdansk.jpg|land|Gdańsk
+rzym.jpg|land|Rzym
+rzym2.jpg|land|Fontanna di Trevi
+wenecja.jpg|land|Wenecja
+barcelona.jpg|land|Barcelona
+teneryfa.jpg|land|Teneryfa
+kreta.jpg|land|Kreta
+ateny.jpg|land|Ateny
+reykjavik.jpg|land|Reykjavik
+hurghada.jpg|land|Hurghada
+tokio.jpg|land|Tokio
+oslo.jpg|land|Oslo
+gory.jpg|land|Tatry
+mini.jpg|land|miniatura
+duzy.jpg|wide|Tatry – panorama
+chleb.jpg|wide|Chleb na zakwasie
+fotel1.jpg|prod|Fotel Bergen
+fotel2.jpg|prod|Fotel Oslo
+fotel3.jpg|prod|Fotel Lund
+nic.png|nic|
+o.png|o|
+x.png|x|
+osadnicy.jpg|prod|Osadnicy z Wyspy
+pociagi.jpg|prod|Pociągi
+karty.jpg|prod|Szybkie Karty
+magowie.jpg|prod|Pojedynek Magów
+kostka.jpg|prod|Kostka 3x3
+hanoi.jpg|prod|Wieża Hanoi
+mapa.jpg|prod|Mapa świata
+krakow.jpg|prod|Kraków nocą
+koszulki.jpg|prod|Koszulki
+kosci.jpg|prod|Kości
+zamki.jpg|prod|Zamki i smoki
+kalambury.jpg|prod|Kalambury
+szachy.jpg|prod|Szachy
+statki.jpg|prod|Statki
+slonce.png|icon:sun|
+deszcz.png|icon:rain|
+chmury.png|icon:cloud|
+obraz.png|icon:paw|
+burek.jpg|prod|Burek
+saba.jpg|prod|Saba
+luna.jpg|prod|Luna
+reksio.jpg|prod|Reksio
+mruczek.jpg|prod|Mruczek
+kicia.jpg|prod|Kicia
+filemon.jpg|prod|Filemon
+puszek.jpg|prod|Puszek
+sniezka.jpg|prod|Śnieżka
+kajtek.jpg|prod|Kajtek
+max.jpg|prod|Max
+tola.jpg|prod|Tola

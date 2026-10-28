@@ -1,0 +1,3 @@
+{
+  "ee09_2021_06_01": { "4": { "ref": "CREATE TABLE wpisy ( id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT, wpis TEXT, uzytkownik_id INTEGER UNSIGNED NOT NULL, PRIMARY KEY(id) );" } }
+}

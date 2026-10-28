@@ -1,0 +1,21 @@
+<?php
+$a = 5;
+$b = &$a;
+$x = ['k' => ['l' => 'm']];
+echo $x['k']['l'], "\n";
+echo "Pole: ", 3 * 4 / 2, " ", (3 + 4) * 2, " ", 2 + 3 . "5", "\n";
+echo true ? "t" : "f", " ", "5" + "5", " ", "5" . "5", " ", -2 ** 2, " ", (-2) ** 2, "\n";
+$s = "abc"; echo $s[0], $s[-1], "\n";
+$i = "a"; $i++; echo $i, " "; $z = "Az"; $z++; echo $z, "\n";
+echo str_repeat("*", 3) . PHP_EOL;
+$liczby = [];
+for ($i = 1; $i <= 5; $i++) $liczby[] = $i * $i;
+echo implode(" ", $liczby), "\n";
+echo max(1, "5", 3), " ", abs(-3.5), " ", sqrt(16), " ", pow(2, 0.5), " ", pi(), "\n";
+echo 7 <=> 3, " ", "10" == "1e1" ? "rowne" : "rozne", "\n";
+print "print działa\n";
+$tekst = "Ala ma kota";
+$slowa = explode(" ", $tekst);
+foreach ($slowa as $nr => $slowo) echo ($nr + 1) . ":" . strlen($slowo) . " ";
+echo "\n", ucwords(strtolower("JAN KOWALSKI")), "\n";
+echo gettype(1), gettype(1.5), gettype("s"), gettype([]), gettype(null), gettype(true), "\n";
